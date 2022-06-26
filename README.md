@@ -39,7 +39,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-> cd TheMystic-Bot-MD
+> cd a
 > yarn install 
 > npm install
 > npm update
