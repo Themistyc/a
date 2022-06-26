@@ -38,7 +38,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
+> git clone https://github.com/Themistyc/a
 > cd a
 > yarn install 
 > npm install
@@ -50,7 +50,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd a
 > npm start
 ```
 
@@ -58,7 +58,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd a
 > rm -rf session.data.json
 > npm start
 ```
